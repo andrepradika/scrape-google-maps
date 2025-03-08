@@ -51,5 +51,5 @@ The extracted data is saved in the `output` directory as:
 ## License
 MIT License
 
-Author
+## Author
 andrepradika
